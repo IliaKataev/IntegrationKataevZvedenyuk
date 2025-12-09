@@ -1,0 +1,7 @@
+D:\camel-integration\src\main\java\com\ilia\CamelIntegrationApplication.java
+D:\camel-integration\src\main\java\com\ilia\model\Spare.java
+D:\camel-integration\src\main\java\com\ilia\repositories\SpareRepository.java
+D:\camel-integration\src\main\java\com\ilia\routes\CmsToDbRoute.java
+D:\camel-integration\src\main\java\com\ilia\routes\DbToCsvRoute.java
+D:\camel-integration\src\main\java\com\ilia\routes\SimpleRoute.java
+D:\camel-integration\src\main\java\com\ilia\services\SpareSyncService.java

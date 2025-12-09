@@ -76,6 +76,13 @@
       <artifactId>postgresql</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>org.apache.camel</groupId>
+      <artifactId>camel-csv</artifactId>
+      <version>4.4.0</version>
+    </dependency>
+
+
     <!-- Spring Data JPA -->
     <dependency>
       <groupId>org.springframework.boot</groupId>

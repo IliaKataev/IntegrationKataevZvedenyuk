@@ -1,0 +1,7 @@
+com\ilia\services\SpareSyncService.class
+com\ilia\routes\DbToCsvRoute.class
+com\ilia\repositories\SpareRepository.class
+com\ilia\routes\CmsToDbRoute.class
+com\ilia\model\Spare.class
+com\ilia\routes\SimpleRoute.class
+com\ilia\CamelIntegrationApplication.class
